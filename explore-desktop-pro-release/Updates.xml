@@ -2,6 +2,11 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
+ <Repositories>
+        <Repository>
+            <Url>https://github.com/salman2135/update-checker-test/tree/main/pro-2</Url>
+        </Repository>
+    </Repositories>
  <PackageUpdate>
   <Name>com.Mentalab.ExploreDesktop</Name>
   <DisplayName>ExploreDesktop</DisplayName>
